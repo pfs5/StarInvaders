@@ -29,12 +29,12 @@ import javax.swing.Timer;
  * 
  * >>>>testing in progress
  * 
- * author:   	Patrik
+ * author:   		Patrik
  * date: 		9/2015.
  * 
  *  
  * 
- * TODO name input
+ * 
  * 
  * 
  * 
